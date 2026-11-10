@@ -1,0 +1,32 @@
+docs/config.md
+  h_1dab720a965b65 277-282
+humming/config/config.py
+  h_1dab720a965b65 537
+humming/include/humming/kernel/humming.cuh
+  h_1dab720a965b65 64-65,132,156,170,172,179,196,199,207-210
+humming/include/humming/kernel/humming_ws.cuh
+  h_1dab720a965b65 55-56,65,116,127,129
+humming/include/humming/memory/g2s_pipeline.cuh
+  h_1dab720a965b65 155,194-211,214-217,378,382,445-446,473-478,493
+humming/include/humming/utils/context.cuh
+  h_1dab720a965b65 98-108
+humming/kernel/humming.py
+  h_1dab720a965b65 492-496
+humming/testing/tuning.py
+  h_1dab720a965b65 26,327-328,463-465
+humming/tune/candidate.py
+  h_1dab720a965b65 77,141,473-477
+tests/kernels/humming/test_special_paths.py
+  h_1dab720a965b65 5-6,8,10,17-18,32-214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b576d890f809e1bd4940c635ab18e2bc49e3d0ce",
+  "prompts": {},
+  "humans": {
+    "h_1dab720a965b65": {
+      "author": "邱凡 <qiufan.zzy@antgroup.com>"
+    }
+  }
+}
